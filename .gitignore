@@ -1,0 +1,7 @@
+# Ignore local environment variables and Google Cloud service account keys
+.env
+serviceAccount.json
+backend/.env
+backend/serviceAccount.json
+.venv/
+__pycache__/
